@@ -1,1 +1,1 @@
-# Epic-Arch-2
+# project-c23-template
